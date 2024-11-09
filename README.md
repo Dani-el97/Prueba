@@ -37,8 +37,6 @@ Las siguientes tecnologías han sido utilizadas en el desarrollo de esta landing
 
 - **HTML5**: Estructura básica de la página y contenido.
 - **CSS3**: Estilos y diseño responsivo para garantizar una experiencia de usuario óptima en dispositivos móviles y de escritorio.
-- **JavaScript**: Para la interactividad, incluyendo animaciones y funcionalidades como el desplazamiento suave.
-- **Bootstrap**: Framework CSS utilizado para la creación de un diseño responsivo y componentes prediseñados.
 
 ## Codificación
 
