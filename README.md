@@ -13,20 +13,23 @@
 
 ## Introducción
 
-En este proyecto se presenta el desarrollo de una landing page, cuyo objetivo es proporcionar una página de presentación para un producto o servicio. La página está diseñada para ser atractiva, eficiente y fácil de navegar, con un diseño visual limpio y profesional.
+¡Bienvenido a Vic Firt!
+Imagina una solución perfecta para conseguir los productos mas reconditos para la percusion. En Vic Firt, hemos creado algo único que te ayudará a encontrar ese instrumento de percusion especial de manera rápida, fácil y efectiva.
 
+¿Por qué elegirnos? Porque sabemos que tu tiempo es valioso y tu experiencia en línea debe ser sin complicaciones. Con nuestra plataforma, podrás disfrutar de personalizacion de instrumentos, compras inmediatas, envio a tu puerta y entregas sin costo, todo desde la comodidad de tu dispositivo, en cualquier lugar y en cualquier momento.
+
+¡Es momento de dar el siguiente paso! Únete a miles de usuarios satisfechos y descubre cómo podemos hacer tu vida más fácil.
 ## Estructura de la Landing Page
 
 La landing page está estructurada de manera simple pero efectiva. Su diseño incluye los siguientes componentes principales:
 
-- **Encabezado**: Contiene el nombre de la marca y un llamado a la acción.
-- **Sección principal**: Destacando las características clave del producto o servicio.
-- **Testimonios**: Opiniones de usuarios satisfechos que refuerzan la confianza en el producto.
-- **Pie de página**: Información adicional como enlaces a redes sociales y contacto.
+- **Encabezado**: Contiene un menu con diferentes opciones de navegacion.
+- **Banner**: Detacando un diseño moderno dirigido a musicos aficionados y profesionales.
+- **Tabla de productos**: Los productos destacados y mas comercializados por la pagina con su respectiva descripcion.
 
 ## Visualización
 
-La landing page ha sido diseñada para ofrecer una experiencia visual atractiva, con un enfoque en la usabilidad. La disposición de los elementos está pensada para guiar al usuario de manera intuitiva a través de la página. Los colores y tipografía son cuidadosamente seleccionados para garantizar una apariencia profesional y coherente con la marca.
+La página web de Vic Firth ofrece una experiencia visual limpia, moderna y altamente funcional. Con un diseño intuitivo, la página destaca por su disposición bien estructurada, donde los colores sobrios y las imágenes de alta calidad se combinan para reflejar la excelencia de la marca. Al ingresar al sitio, los usuarios son recibidos con una interfaz visualmente atractiva que resalta los productos de percusión de alta gama, mientras que los elementos de navegación son fáciles de encontrar y utilizar. La disposición de las secciones está pensada para guiar al visitante de manera fluida a través de las categorías de productos, información sobre la marca, y recursos educativos, todo en un formato responsivo que se adapta perfectamente a dispositivos móviles y de escritorio, asegurando una experiencia agradable sin importar el dispositivo.
 
 ## Tecnologías Empleadas
 
