@@ -72,4 +72,4 @@ La codificación de la landing page sigue buenas prácticas de desarrollo web, e
 </body>
 </html>
 
-## Despliegue
+# Despliegue
